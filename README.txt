@@ -1,2 +1,2 @@
 required to install this pip first
-pip install pytz twitchio
+pip install pytz twitchio simpleobsws
