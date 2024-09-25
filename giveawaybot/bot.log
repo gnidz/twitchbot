@@ -1,0 +1,782 @@
+2024-08-06 12:26:27,012 - __main__ - INFO - Bot process started at 2024-08-06 12:26:27
+2024-08-06 12:26:27,014 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 12:26:29,156 - __main__ - INFO - Logged in as urxi_
+2024-08-06 12:26:29,156 - __main__ - INFO - Connected to Urxi_
+2024-08-06 12:26:56,270 - __main__ - INFO - Bot: urxi_ has been entered into the giveaway!
+2024-08-06 12:27:55,797 - __main__ - INFO - Bot: The winner of the giveaway is urxi_! Congratulations!
+2024-08-06 12:28:05,854 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-08-06 12:29:46,170 - __main__ - INFO - Bot process started at 2024-08-06 12:29:46
+2024-08-06 12:29:46,171 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 13:43:30,050 - __main__ - INFO - Bot process started at 2024-08-06 13:43:30
+2024-08-06 13:43:30,051 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 13:43:32,247 - __main__ - INFO - Logged in as urxi_
+2024-08-06 13:43:32,247 - __main__ - INFO - Connected to Urxi_
+2024-08-06 13:46:19,507 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 13:46:19,507 - __main__ - ERROR - Error checking subscription status: 'Channel' object has no attribute 'get_user'
+2024-08-06 13:46:19,508 - __main__ - ERROR - Error handling message: 'Message' object has no attribute 'send'
+2024-08-06 13:48:18,559 - __main__ - INFO - Bot process started at 2024-08-06 13:48:18
+2024-08-06 13:48:18,560 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 13:48:20,663 - __main__ - INFO - Logged in as urxi_
+2024-08-06 13:48:20,663 - __main__ - INFO - Connected to Urxi_
+2024-08-06 13:48:23,103 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 13:48:23,103 - __main__ - INFO - Bot: urxi_, you are already entered in the giveaway.
+2024-08-06 13:48:32,296 - __main__ - INFO - urxi_: !reset
+2024-08-06 13:48:32,297 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-08-06 13:48:34,964 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 13:48:34,965 - __main__ - ERROR - Error checking subscription status: 'Channel' object has no attribute 'get_subscriptions'
+2024-08-06 13:48:34,965 - __main__ - INFO - Bot: urxi_ has been entered into the giveaway!
+2024-08-06 13:48:38,624 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 13:48:38,624 - __main__ - INFO - Bot: urxi_, you are already entered in the giveaway.
+2024-08-06 13:48:42,333 - __main__ - INFO - urxi_: !enter
+2024-08-06 13:48:42,334 - __main__ - INFO - Bot: urxi_, you are already entered in the giveaway.
+2024-08-06 13:48:50,340 - __main__ - INFO - urxi_: !reset
+2024-08-06 13:48:50,341 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-08-06 13:56:06,628 - __main__ - INFO - Bot process started at 2024-08-06 13:56:06
+2024-08-06 13:56:06,629 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 13:57:07,792 - __main__ - INFO - Bot process started at 2024-08-06 13:57:07
+2024-08-06 13:57:07,792 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 13:57:09,899 - __main__ - INFO - Logged in as urxi_
+2024-08-06 13:57:09,899 - __main__ - INFO - Connected to Urxi_
+2024-08-06 13:57:47,198 - __main__ - INFO - Bot process started at 2024-08-06 13:57:47
+2024-08-06 13:57:47,199 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 13:57:49,344 - __main__ - INFO - Logged in as urxi_
+2024-08-06 13:57:49,344 - __main__ - INFO - Connected to Urxi_
+2024-08-06 13:57:58,748 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 13:57:59,249 - __main__ - ERROR - Error checking subscription status: 'data'
+2024-08-06 13:57:59,250 - __main__ - INFO - Bot: urxi_ has been entered into the giveaway!
+2024-08-06 13:58:05,867 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 13:58:05,867 - __main__ - INFO - Bot: urxi_, you are already entered in the giveaway.
+2024-08-06 14:00:20,858 - __main__ - INFO - Bot process started at 2024-08-06 14:00:20
+2024-08-06 14:00:20,859 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 14:00:23,059 - __main__ - INFO - Logged in as urxi_
+2024-08-06 14:00:23,060 - __main__ - INFO - Connected to Urxi_
+2024-08-06 14:00:26,798 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 14:00:26,798 - __main__ - INFO - Bot: urxi_, you are already entered in the giveaway.
+2024-08-06 14:00:46,493 - __main__ - INFO - urxi_: !reset
+2024-08-06 14:00:46,493 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-08-06 14:01:37,336 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 14:01:37,840 - __main__ - ERROR - Error checking subscription status: 'data'
+2024-08-06 14:01:37,841 - __main__ - INFO - Bot: urxi_ has been entered into the giveaway!
+2024-08-06 14:01:48,712 - __main__ - INFO - Bot process started at 2024-08-06 14:01:48
+2024-08-06 14:01:48,712 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 14:01:50,799 - __main__ - INFO - Logged in as urxi_
+2024-08-06 14:01:50,799 - __main__ - INFO - Connected to Urxi_
+2024-08-06 14:01:55,202 - __main__ - INFO - urxi_: !reset
+2024-08-06 14:01:55,202 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-08-06 14:02:00,469 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 14:02:00,983 - __main__ - ERROR - Error checking subscription status: 'data'
+2024-08-06 14:02:00,984 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-08-06 14:13:10,421 - __main__ - INFO - Bot process started at 2024-08-06 14:13:10
+2024-08-06 14:13:10,422 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-06 14:13:12,599 - __main__ - INFO - Logged in as urxi_
+2024-08-06 14:13:12,599 - __main__ - INFO - Connected to Urxi_
+2024-08-06 14:13:16,164 - __main__ - INFO - urxi_: สุ่ม
+2024-08-06 14:13:16,165 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-08-06 14:13:25,103 - __main__ - INFO - urxi_: สุ่มไอสัดมึงไหวไหม
+2024-08-06 14:13:25,103 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-08-06 14:13:37,691 - __main__ - INFO - urxi_: !reset
+2024-08-06 14:13:37,692 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-08-06 14:13:42,234 - __main__ - INFO - urxi_: สุ่มไอสัดมึงไหวไหม
+2024-08-06 14:13:42,738 - __main__ - ERROR - Error checking subscription status: 'data'
+2024-08-06 14:13:42,739 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-08-06 14:14:02,614 - __main__ - INFO - urxi_: !random
+2024-08-06 14:14:02,614 - __main__ - INFO - Bot: The winner of the giveaway is urxi_! Congratulations!
+2024-08-06 14:53:29,772 - __main__ - INFO - Bot process started at 2024-08-06 14:53:29
+2024-08-06 14:53:29,773 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-25 21:40:16,396 - __main__ - INFO - Bot process started at 2024-08-25 21:40:16
+2024-08-25 21:40:16,397 - __main__ - INFO - Starting bot in Urxi_ . . .
+2024-08-25 21:40:18,471 - __main__ - INFO - Logged in as urxi_
+2024-08-25 21:40:18,471 - __main__ - INFO - Connected to Urxi_
+2024-08-25 21:40:46,655 - __main__ - INFO - urxi_: สุ่ม
+2024-08-25 21:40:46,655 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-08-25 21:40:50,775 - __main__ - INFO - urxi_: !enter
+2024-08-25 21:40:50,775 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-08-25 21:40:54,098 - __main__ - INFO - urxi_: !reset
+2024-08-25 21:40:54,098 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-08-25 21:40:58,677 - __main__ - INFO - urxi_: !enter
+2024-08-25 21:40:59,200 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-08-25 21:41:07,929 - __main__ - INFO - j3n0zydes: สุ่ม
+2024-08-25 21:41:08,465 - __main__ - INFO - Bot: j3n0zydes ได้เข้าร่วม.
+2024-08-25 21:41:14,251 - __main__ - INFO - urxi_: !random
+2024-08-25 21:41:14,251 - __main__ - INFO - Bot: The winner of the giveaway is urxi_! Congratulations!
+2024-08-25 21:45:21,306 - __main__ - INFO - Bot process interrupted by user.
+2024-08-25 21:45:21,306 - __main__ - INFO - Bot process stopped at 2024-08-25 21:45:21
+2024-09-11 22:00:31,743 - __main__ - INFO - Bot process started at 2024-09-11 22:00:31
+2024-09-11 22:00:31,744 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-11 22:00:34,006 - __main__ - INFO - Logged in as urxi_
+2024-09-11 22:00:34,006 - __main__ - INFO - Connected to kiziakixx
+2024-09-11 22:01:02,034 - __main__ - INFO - nightbot: ฝากกดติดตามเซียทางทวิตเตอร์ด้วยนะคะ <3 https://twitter.com/kiziakixx
+2024-09-11 22:01:38,379 - __main__ - INFO - succubusinluv: สวัสดีค่ะ
+2024-09-11 22:01:44,213 - __main__ - INFO - raylaster: พน. มากี่โมงอ่ะ ป๊าไม่อยู่ช่วงเช้า
+2024-09-11 22:01:56,980 - __main__ - INFO - i_capitano_i: พรืดดดดดดดดดด
+2024-09-11 22:01:57,549 - __main__ - INFO - succubusinluv: kiziakHeart succub72TailWag
+2024-09-11 22:02:00,559 - __main__ - INFO - i_capitano_i: succub72Nomimasuu succub72TailWag
+2024-09-11 22:02:04,480 - __main__ - INFO - succubusinluv: คิดถึงนะคะ
+2024-09-11 22:02:11,260 - __main__ - INFO - succubusinluv: ไปเล่นเกมละ
+2024-09-11 22:02:22,622 - __main__ - INFO - i_capitano_i: @succubusinluv คิดถึงเหมือนกันเลยคับ succub72Luvkub succub72TailWag
+2024-09-11 22:02:31,731 - __main__ - INFO - i_capitano_i: @succubusinluv สู้ๆนะคับคุณมิก
+2024-09-11 22:03:23,026 - __main__ - INFO - i_capitano_i: คุณ สาวสวยมาหา คุณรีบจบตานี้ร็ว
+2024-09-11 22:03:34,656 - __main__ - INFO - i_capitano_i: L ภาษาไทย จะมี เ กับ แ ทำไม
+2024-09-11 22:03:38,258 - __main__ - INFO - ngt0310: Cheer1
+2024-09-11 22:04:10,822 - __main__ - INFO - i_capitano_i: คุณมิกบอกสบายดีมากและคิดถึงมาก
+2024-09-11 22:04:12,775 - __main__ - INFO - urxi_: สุ่ม
+2024-09-11 22:04:12,776 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-09-11 22:04:26,954 - __main__ - INFO - urxi_: ลองพิมพ์ตามหน่อยได้ไหมครับ
+2024-09-11 22:04:39,322 - __main__ - INFO - kimino_too: snowvnKuku snowvnKuku snowvnKuku
+2024-09-11 22:05:26,518 - __main__ - INFO - i_capitano_i: กรี๊ดเลย กรี๊ดมันออกมา
+2024-09-11 22:05:36,950 - __main__ - INFO - shibi290: หึยยยย
+2024-09-11 22:05:42,502 - __main__ - INFO - shibi290: ไม่ได้เจอนานเบย
+2024-09-11 22:05:53,442 - __main__ - INFO - shibi290: ใส่ยางยาง
+2024-09-11 22:06:22,580 - __main__ - INFO - i_capitano_i: สอเสือ สระอุ ไม้เอก มอม้า
+2024-09-11 22:06:41,247 - __main__ - INFO - raylaster: สุ่ม
+2024-09-11 22:06:41,925 - __main__ - INFO - Bot: raylaster ได้เข้าร่วม.
+2024-09-11 22:07:05,202 - __main__ - INFO - shibi290: สุ่ม
+2024-09-11 22:07:05,794 - __main__ - INFO - Bot: shibi290 ได้เข้าร่วม.
+2024-09-11 22:07:11,672 - __main__ - INFO - ngt0310: สุ่ม
+2024-09-11 22:07:12,372 - __main__ - INFO - Bot: ngt0310 ได้เข้าร่วม.
+2024-09-11 22:07:29,896 - __main__ - INFO - chakeawhehe: จุ่ม
+2024-09-11 22:07:36,309 - __main__ - INFO - aronojisans: สุ่ม
+2024-09-11 22:07:36,795 - __main__ - INFO - Bot: aronojisans ได้เข้าร่วม.
+2024-09-11 22:07:42,167 - __main__ - INFO - i_capitano_i: สุ้ม
+2024-09-11 22:07:43,441 - __main__ - INFO - kimino_too: สุ่ม
+2024-09-11 22:07:44,035 - __main__ - INFO - Bot: kimino_too ได้เข้าร่วม.
+2024-09-11 22:07:53,191 - __main__ - INFO - urxi_: !random
+2024-09-11 22:07:53,191 - __main__ - INFO - Bot: The winner of the giveaway is ngt0310! Congratulations!
+2024-09-11 22:07:58,292 - __main__ - INFO - i_capitano_i: สุ่ม
+2024-09-11 22:07:58,977 - __main__ - INFO - Bot: i_capitano_i ได้เข้าร่วม.
+2024-09-11 22:08:07,531 - __main__ - INFO - i_capitano_i: W bot
+2024-09-11 22:08:08,074 - __main__ - INFO - kimino_too: ตุ่ม
+2024-09-11 22:08:14,275 - __main__ - INFO - urxi_: BibleThump BibleThump BibleThump
+2024-09-11 22:08:17,198 - __main__ - INFO - i_capitano_i: นุ่ม
+2024-09-11 22:08:22,128 - __main__ - INFO - ngt0310: @urxi_ สุ่มแล้วได้อะไรอะสุดหล่อ
+2024-09-11 22:08:38,432 - __main__ - INFO - ngt0310: Cheer1
+2024-09-11 22:08:41,700 - __main__ - INFO - inoosai: กุ่ม
+2024-09-11 22:08:50,971 - __main__ - INFO - i_capitano_i: ได้แบนสองนาที
+2024-09-11 22:08:57,690 - __main__ - INFO - ngt0310: ว้าวว
+2024-09-11 22:09:04,087 - __main__ - INFO - i_capitano_i: W Mod signature
+2024-09-11 22:09:08,711 - __main__ - INFO - i_capitano_i: WWWWWWWWWWWWW
+2024-09-11 22:09:17,606 - __main__ - INFO - ngt0310: นี่คือได้ละหรอ
+2024-09-11 22:09:19,078 - __main__ - INFO - i_capitano_i: @inoosai kiziakHeart kiziakHeart kiziakHeart kiziakHeart
+2024-09-11 22:10:51,148 - __main__ - INFO - i_capitano_i: W free legal labor mod
+2024-09-11 22:11:17,376 - __main__ - INFO - kiziakixx: WWWWWWWWWW
+2024-09-11 22:11:41,037 - __main__ - INFO - kimino_too: snowvnHunt snowvnHunt snowvnHunt
+2024-09-11 22:11:55,209 - __main__ - INFO - bxxm_tsk: หุ้ยยๆ สตีมเมอร์หน้าใหม่หรอครับเนี่ย
+2024-09-11 22:12:24,826 - __main__ - INFO - i_capitano_i: W ace
+2024-09-11 22:12:28,923 - __main__ - INFO - i_capitano_i: W Reyna
+2024-09-11 22:12:35,731 - __main__ - INFO - succubusinluv: succub72Nomimasuu succub72TailWag
+2024-09-11 22:12:38,474 - __main__ - INFO - i_capitano_i: W Sheriff
+2024-09-11 22:12:47,232 - __main__ - INFO - panyapat_t: wwwwwwwwwwwww
+2024-09-11 22:13:12,967 - __main__ - INFO - switchz__: กะเต๋ว
+2024-09-11 22:13:52,559 - __main__ - INFO - i_capitano_i: L trip wire
+2024-09-11 22:14:02,929 - __main__ - INFO - i_capitano_i: 55555555555
+2024-09-11 22:14:08,871 - __main__ - INFO - i_capitano_i: จริงด้วย ลืมได้ไง
+2024-09-11 22:14:12,730 - __main__ - INFO - i_capitano_i: +1000 Aura
+2024-09-11 22:14:34,885 - __main__ - INFO - ngt0310: Cheer1
+2024-09-11 22:14:44,314 - __main__ - INFO - zay2345678: UU
+2024-09-11 22:14:51,037 - __main__ - INFO - i_capitano_i: ไม่ไหว ผมโดน Brain rot จนไม่เหลืออะไรในหัวแล้ว
+2024-09-11 22:14:52,789 - __main__ - INFO - i_capitano_i: 5555555555
+2024-09-11 22:14:56,699 - __main__ - INFO - zay2345678: !russianroulette @ChaKeawHEHE
+2024-09-11 22:14:58,553 - __main__ - INFO - zay2345678: เทสๆ
+2024-09-11 22:15:12,222 - __main__ - INFO - zay2345678: !ต่อย @ChaKeawHEHE
+2024-09-11 22:15:12,407 - __main__ - INFO - nightbot: zay2345678 ต่อย ChaKeawHEHE หน้าหงายไป 5 หมัด
+2024-09-11 22:15:14,096 - __main__ - INFO - chakeawhehe: celene1FolkU celene1FolkU
+2024-09-11 22:15:28,063 - __main__ - INFO - zay2345678: lunalu38Punch lunalu38Punch lunalu38Punch
+2024-09-11 22:15:33,005 - __main__ - INFO - shibi290: F
+2024-09-11 22:15:33,573 - __main__ - INFO - ngt0310: FFFFF
+2024-09-11 22:15:34,413 - __main__ - INFO - i_capitano_i: F
+2024-09-11 22:15:37,073 - __main__ - INFO - i_capitano_i: L hacker
+2024-09-11 22:15:39,299 - __main__ - INFO - zay2345678: I=
+2024-09-11 22:15:40,965 - __main__ - INFO - i_capitano_i: L scammer
+2024-09-11 22:15:43,371 - __main__ - INFO - chakeawhehe: A+
+2024-09-11 22:15:50,866 - __main__ - INFO - zay2345678: I= I= I=
+2024-09-11 22:15:52,631 - __main__ - INFO - zay2345678: เอฟ
+2024-09-11 22:16:15,717 - __main__ - INFO - zay2345678: เชื่อครับ
+2024-09-11 22:16:22,689 - __main__ - INFO - zay2345678: ผมเชื่อคิเซียยุแล้วครับ
+2024-09-11 22:16:50,213 - __main__ - INFO - ngt0310: FFF
+2024-09-11 22:17:13,370 - __main__ - INFO - zay2345678: Ⅎ Ⅎ Ⅎ
+2024-09-11 22:17:22,422 - __main__ - INFO - zay2345678: Ⅎ ให้แล้วนะครับ
+2024-09-11 22:17:59,434 - __main__ - INFO - zay2345678: คนรักเดียวใจเดียวถึงทำเอฟกลับหัวได้
+2024-09-11 22:18:04,488 - __main__ - INFO - zay2345678: UU เรนา
+2024-09-11 22:18:09,533 - __main__ - INFO - i_capitano_i: W reyna
+2024-09-11 22:18:46,038 - __main__ - INFO - kiziakixx: W speech
+2024-09-11 22:18:51,962 - __main__ - INFO - zay2345678: ส่วนอันนี้คิเซียกลับหัว
+2024-09-11 22:18:53,513 - __main__ - INFO - zay2345678: xxıqɐızıʞ
+2024-09-11 22:19:07,798 - __main__ - INFO - shibi290: คิเซียคมมาก
+2024-09-11 22:19:21,054 - __main__ - INFO - zay2345678: กลับหัวแล้วอย่ากลับใจนะครับ
+2024-09-11 22:19:26,970 - __main__ - INFO - zay2345678: kiziakHeart kiziakHeart
+2024-09-11 22:19:28,970 - __main__ - INFO - zay2345678: กลับแค่หัวพอ
+2024-09-11 22:19:34,330 - __main__ - INFO - i_capitano_i: W ข้าวเหนียวไก่ทอด
+2024-09-11 22:19:46,677 - __main__ - INFO - i_capitano_i: L ถุงพลาสติก -100 Aura
+2024-09-11 22:20:14,183 - __main__ - INFO - i_capitano_i: ถูกกกกก
+2024-09-11 22:20:19,438 - __main__ - INFO - ngt0310: Cheer1  ต้องพูด ara ara
+2024-09-11 22:20:28,047 - __main__ - INFO - i_capitano_i: ลด Carbon footprint ของคุณ
+2024-09-11 22:20:29,517 - __main__ - INFO - ngt0310: 5555555555555
+2024-09-11 22:20:40,475 - __main__ - INFO - i_capitano_i: แต่อาจจะเพิ่ม Water Footprint
+2024-09-11 22:20:48,417 - __main__ - INFO - zay2345678: ข้าวเหนียวไก่ทอดชุดละ 200 auraครับ
+2024-09-11 22:20:50,587 - __main__ - INFO - aronojisans: @ngt0310 เจ้าชู้
+2024-09-11 22:20:58,669 - __main__ - INFO - zay2345678: ต้องกิน2,000 ชุด
+2024-09-11 22:21:01,761 - __main__ - INFO - ngt0310: คับคนไม่เจ้าชู้ @kiziakixx @AronOjisans
+2024-09-11 22:21:04,735 - __main__ - INFO - i_capitano_i: อะไรมีจริงคับ
+2024-09-11 22:21:24,354 - __main__ - INFO - shibi290: ใครเจ้าชู้กัน
+2024-09-11 22:21:53,342 - __main__ - INFO - i_capitano_i: มีจริงสิครับ
+2024-09-11 22:22:00,106 - __main__ - INFO - i_capitano_i: Water footprint
+2024-09-11 22:22:12,302 - __main__ - INFO - i_capitano_i: ไม่มีจริงมันไม่ทำผมสอบตกหรอกครับ
+2024-09-11 22:22:15,292 - __main__ - INFO - kimino_too: chakeaC chakeaC chakeaC
+2024-09-11 22:22:21,235 - __main__ - INFO - shibi290: kiziakHeart kiziakHeart kiziakHeart
+2024-09-11 22:23:02,376 - __main__ - INFO - kritthat111: succub72Sukida
+2024-09-11 22:23:29,220 - __main__ - INFO - i_capitano_i: Carbon footprint ไงคับ
+2024-09-11 22:23:54,049 - __main__ - INFO - succubusinluv: succub72Yahooo succub72Hoyaa
+2024-09-11 22:23:55,846 - __main__ - INFO - zay2345678: เวลานี้
+2024-09-11 22:24:00,097 - __main__ - INFO - zay2345678: ได้เวลาโรบอคต่างหาก
+2024-09-11 22:24:00,817 - __main__ - INFO - kritthat111: @succubusinluv succub72Yaaaaaaaaaaa succub72Yaaaaaaaaaaa succub72Yaaaaaaaaaaa
+2024-09-11 22:24:05,523 - __main__ - INFO - zay2345678: lunalu38Punch lunalu38Punch lunalu38Punch
+2024-09-11 22:24:06,223 - __main__ - INFO - i_capitano_i: @succubusinluv miboorHeart miboorHeart miboorHeart
+2024-09-11 22:24:30,087 - __main__ - INFO - Bot process interrupted by user.
+2024-09-11 22:24:30,087 - __main__ - INFO - Bot process stopped at 2024-09-11 22:24:30
+2024-09-11 22:24:31,022 - __main__ - INFO - Bot process started at 2024-09-11 22:24:31
+2024-09-11 22:24:31,023 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-11 22:24:33,288 - __main__ - INFO - Logged in as urxi_
+2024-09-11 22:24:33,288 - __main__ - INFO - Connected to kiziakixx
+2024-09-11 22:24:37,185 - __main__ - INFO - succubusinluv: น่ารักมั้ยยย
+2024-09-11 22:24:41,997 - __main__ - INFO - urxi_: สุ่ม
+2024-09-11 22:24:41,997 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-09-11 22:24:47,711 - __main__ - INFO - urxi_: !reset
+2024-09-11 22:24:47,712 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-09-11 22:24:53,346 - __main__ - INFO - urxi_: สุ่ม
+2024-09-11 22:24:53,595 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-09-11 22:24:56,361 - __main__ - INFO - zay2345678: !สุ่ม
+2024-09-11 22:24:56,592 - __main__ - INFO - Bot: zay2345678 ได้เข้าร่วม.
+2024-09-11 22:25:04,881 - __main__ - INFO - i_capitano_i: สุ่ม
+2024-09-11 22:25:05,125 - __main__ - INFO - Bot: i_capitano_i ได้เข้าร่วม.
+2024-09-11 22:25:07,612 - __main__ - INFO - shibi290: สุ่ม
+2024-09-11 22:25:07,861 - __main__ - INFO - Bot: shibi290 ได้เข้าร่วม.
+2024-09-11 22:25:17,915 - __main__ - INFO - zay23456_: สุ่ม
+2024-09-11 22:25:18,160 - __main__ - INFO - Bot: zay23456_ ได้เข้าร่วม.
+2024-09-11 22:25:29,318 - __main__ - INFO - urxi_: L code
+2024-09-11 22:25:32,103 - __main__ - INFO - zay2345678: จุๆๆ
+2024-09-11 22:25:32,579 - __main__ - INFO - i_capitano_i: W
+2024-09-11 22:25:43,040 - __main__ - INFO - kimino_too: inoosa1Notloading inoosa1Notloading inoosa1Notloading
+2024-09-11 22:25:47,641 - __main__ - INFO - i_capitano_i: W pin
+2024-09-11 22:25:47,857 - __main__ - INFO - zay2345678: เล่นกับใจแชทสนุกกว่า
+2024-09-11 22:26:14,920 - __main__ - INFO - zay2345678: .□.)＼ ︵╰(°益°)╯︵ /(.□. /)
+2024-09-11 22:26:19,545 - __main__ - INFO - zay2345678: _/( .□.)＼ ︵╰(°益°)╯︵ /(.□. /)
+2024-09-11 22:26:30,609 - __main__ - INFO - kimino_too: snowvnBonk snowvnBonk snowvnBonk
+2024-09-11 22:26:39,398 - __main__ - INFO - zay2345678: ดูไลฟ์คิเซียครับปกติ
+2024-09-11 22:26:39,905 - __main__ - INFO - i_capitano_i: W anime song
+2024-09-11 22:26:43,432 - __main__ - INFO - i_capitano_i: 555555555555
+2024-09-11 22:26:47,311 - __main__ - INFO - i_capitano_i: W anime
+2024-09-11 22:26:48,220 - __main__ - INFO - zay2345678: ตัดๆ
+2024-09-11 22:26:52,601 - __main__ - INFO - zay2345678: ตัดไว้เป็นหลักฐานเลย
+2024-09-11 22:26:55,450 - __main__ - INFO - kimino_too: นั้งดูคนเจ้าชู้ครับ
+2024-09-11 22:26:56,859 - __main__ - INFO - i_capitano_i: W breathing style
+2024-09-11 22:27:10,852 - __main__ - INFO - shibi290: ทำใจครับ
+2024-09-11 22:27:48,650 - __main__ - INFO - zay2345678: เอาเพลงนี้ๆ https://www.youtube.com/watch?v=EuJ6UR_pD5s
+2024-09-11 22:27:50,289 - __main__ - INFO - i_capitano_i: ดูสาวๆรักกิน
+2024-09-11 22:27:51,923 - __main__ - INFO - i_capitano_i: ฟิรอ้าา
+2024-09-11 22:27:54,988 - __main__ - INFO - i_capitano_i: ฟิรอ้าา คุร้นาาาา
+2024-09-11 22:27:57,065 - __main__ - INFO - i_capitano_i: อร้ายยย
+2024-09-11 22:28:05,767 - __main__ - INFO - i_capitano_i: succub72Nomimasuu succub72TailWag
+2024-09-11 22:28:20,755 - __main__ - INFO - i_capitano_i: มันฟออินฟิรสุบๆ
+2024-09-11 22:28:28,768 - __main__ - INFO - zay2345678: คิเซีย3ขวบหรือยังครับ
+2024-09-11 22:28:40,900 - __main__ - INFO - ngt0310: Cheer1
+2024-09-11 22:28:43,915 - __main__ - INFO - aronojisans: g8
+2024-09-11 22:28:45,715 - __main__ - INFO - aronojisans: k
+2024-09-11 22:29:00,256 - __main__ - INFO - zay2345678: ใส่ไข่หรอครับ
+2024-09-11 22:29:12,347 - __main__ - INFO - zay2345678: พิเศษ
+2024-09-11 22:29:36,910 - __main__ - INFO - kimino_too: chakeaAierr chakeaAierr chakeaAierr
+2024-09-11 22:29:36,971 - __main__ - INFO - zay2345678: https://www.youtube.com/watch?v=EuJ6UR_pD5s
+2024-09-11 22:29:41,174 - __main__ - INFO - zay2345678: ขอเพลงนี้ๆ
+2024-09-11 22:29:59,843 - __main__ - INFO - i_capitano_i: W i aint worry rn
+2024-09-11 22:30:40,246 - __main__ - INFO - zay2345678: ช่าย
+2024-09-11 22:30:43,050 - __main__ - INFO - zay2345678: เจ้าหญิงคิเซียไง
+2024-09-11 22:30:47,431 - __main__ - INFO - Bot process interrupted by user.
+2024-09-11 22:30:47,431 - __main__ - INFO - Bot process stopped at 2024-09-11 22:30:47
+2024-09-11 22:30:48,378 - __main__ - INFO - Bot process started at 2024-09-11 22:30:48
+2024-09-11 22:30:48,379 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-11 22:30:50,632 - __main__ - INFO - Logged in as urxi_
+2024-09-11 22:30:50,632 - __main__ - INFO - Connected to kiziakixx
+2024-09-11 22:30:56,601 - __main__ - INFO - urxi_: !reset
+2024-09-11 22:30:56,602 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-09-11 22:31:01,381 - __main__ - INFO - urxi_: สุ่ม
+2024-09-11 22:31:01,635 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-11 22:31:01,636 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-09-11 22:31:03,994 - __main__ - INFO - zay2345678: หรือจะเป็นเจ้าหนูคิเซียกันนะ
+2024-09-11 22:31:05,065 - __main__ - INFO - zay2345678: สุ่ม
+2024-09-11 22:31:05,299 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-11 22:31:05,299 - __main__ - INFO - Bot: zay2345678 ได้เข้าร่วม.
+2024-09-11 22:31:05,827 - __main__ - INFO - i_capitano_i: สุ่ม
+2024-09-11 22:31:06,065 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-11 22:31:06,066 - __main__ - INFO - Bot: i_capitano_i ได้เข้าร่วม.
+2024-09-11 22:31:15,941 - __main__ - INFO - ngt0310: สุ่ม
+2024-09-11 22:31:16,184 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-11 22:31:16,184 - __main__ - INFO - Bot: ngt0310 ได้เข้าร่วม.
+2024-09-11 22:31:18,692 - __main__ - INFO - shibi290: สุ่ม
+2024-09-11 22:31:18,937 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-11 22:31:18,938 - __main__ - INFO - Bot: shibi290 ได้เข้าร่วม.
+2024-09-11 22:31:19,430 - __main__ - INFO - chakeawhehe: สุ่ม
+2024-09-11 22:31:19,668 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-11 22:31:19,668 - __main__ - INFO - Bot: chakeawhehe ได้เข้าร่วม.
+2024-09-11 22:31:21,219 - __main__ - INFO - urxi_: จบ
+2024-09-11 22:31:29,981 - __main__ - INFO - urxi_: L code ลาออก
+2024-09-11 22:31:32,963 - __main__ - INFO - zay2345678: เอาคนชื่อตล้ายมาสุ่มได้ไหม
+2024-09-11 22:31:43,077 - __main__ - INFO - zay2345678: #zayfamily
+2024-09-11 22:31:46,380 - __main__ - INFO - i_capitano_i: L code
+2024-09-11 22:32:00,394 - __main__ - INFO - i_capitano_i: L #zayfamily
+2024-09-11 22:32:11,949 - __main__ - INFO - kiziakixx: -100000000 aura
+2024-09-11 22:32:15,586 - __main__ - INFO - i_capitano_i: -1000 aura
+2024-09-11 22:32:22,118 - __main__ - INFO - zay23456_: lunalu38Punch lunalu38Punch lunalu38Punch lunalu38Punch
+2024-09-11 22:32:33,479 - __main__ - INFO - zay2345678: ผมรู้
+2024-09-11 22:32:35,210 - __main__ - INFO - zay23456_: ผมมันเลว
+2024-09-11 22:32:40,359 - __main__ - INFO - i_capitano_i: W ไม่ยินดี
+2024-09-11 22:32:46,969 - __main__ - INFO - i_capitano_i: ฟังไม่ยินดี +10000 Aura
+2024-09-11 22:32:52,120 - __main__ - INFO - zay234567_: แต่จะให้ทำไงได้ใจมันไม่ฟัง
+2024-09-11 22:33:07,080 - __main__ - INFO - i_capitano_i: ผมไม่เคยรู้เลยนะว่าคุณฟังเพลงแนวนี้ด้วย
+2024-09-11 22:33:52,466 - __main__ - INFO - i_capitano_i: W
+2024-09-11 22:34:05,333 - __main__ - INFO - Bot process interrupted by user.
+2024-09-11 22:34:05,333 - __main__ - INFO - Bot process stopped at 2024-09-11 22:34:05
+2024-09-11 22:34:06,314 - __main__ - INFO - Bot process started at 2024-09-11 22:34:06
+2024-09-11 22:34:06,315 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-11 22:34:08,553 - __main__ - INFO - Logged in as urxi_
+2024-09-11 22:34:08,554 - __main__ - INFO - Connected to kiziakixx
+2024-09-11 22:34:09,441 - __main__ - INFO - succubusinluv: succub72Yahooo succub72Hoyaa
+2024-09-11 22:34:13,792 - __main__ - INFO - zay2345678: ต้องเอาเพลงที่ยอดฟังระดับโลกให้ฟัง
+2024-09-11 22:34:15,564 - __main__ - INFO - zay2345678: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2024-09-11 22:34:24,654 - __main__ - INFO - urxi_: !reset
+2024-09-11 22:34:24,655 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-09-11 22:34:28,037 - __main__ - INFO - zay2345678: สุ่ม
+2024-09-11 22:34:28,298 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-11 22:34:28,299 - __main__ - INFO - Bot: zay2345678 ได้เข้าร่วม.
+2024-09-11 22:34:28,591 - __main__ - INFO - succubusinluv: คุณเซียน่ารักกว่า
+2024-09-11 22:34:32,246 - __main__ - INFO - succubusinluv: มาเล่นกันๆ
+2024-09-11 22:34:32,384 - __main__ - INFO - i_capitano_i: +100000 Aura If you were "I can listen to all kinda music"
+2024-09-11 22:34:36,029 - __main__ - INFO - i_capitano_i: สุ่ม
+2024-09-11 22:34:36,285 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-11 22:34:36,286 - __main__ - INFO - Bot: i_capitano_i ได้เข้าร่วม.
+2024-09-11 22:35:01,379 - __main__ - INFO - zay2345678: หัวเราะอะไรเพลงระดับโลกที่ผมส่งให้ PoroSad PoroSad
+2024-09-11 22:35:02,901 - __main__ - INFO - zay2345678: ฮรือออ
+2024-09-11 22:35:09,456 - __main__ - INFO - zay2345678: -100000 aura
+2024-09-11 22:35:28,207 - __main__ - INFO - zay2345678: ชิ
+2024-09-11 22:35:36,686 - __main__ - INFO - zay2345678: รอดไปนะ
+2024-09-11 22:35:55,974 - __main__ - INFO - zay2345678: แต่คนในแชทต้องมีคนไม่รอดแน่
+2024-09-11 22:36:21,207 - __main__ - INFO - endosszxx: kiziakYawn kiziakYawn kiziakYawn
+2024-09-11 22:36:22,995 - __main__ - INFO - i_capitano_i: อยากพักวาโลก่อนมั้ยจ๊ะ = จะไปเล่น OW กับคุรมิก
+2024-09-11 22:36:45,223 - __main__ - INFO - endosszxx: 55555555
+2024-09-11 22:36:46,871 - __main__ - INFO - i_capitano_i: 5555555555555555
+2024-09-11 22:36:51,499 - __main__ - INFO - shibi290: aronojHaha aronojHaha
+2024-09-11 22:36:52,940 - __main__ - INFO - zay2345678: หมายถึงผมอะหรอ
+2024-09-11 22:37:05,014 - __main__ - INFO - zay2345678: อุสาช่วยตีแต่เธอก็ทิ้งกันไปสะได้
+2024-09-11 22:37:06,454 - __main__ - INFO - i_capitano_i: W anime tower denfense
+2024-09-11 22:37:07,639 - __main__ - INFO - zay2345678: PoroSad PoroSad PoroSad
+2024-09-11 22:37:09,046 - __main__ - INFO - zay2345678: ฮรืออ
+2024-09-11 22:37:45,492 - __main__ - INFO - grimtouch_x: hernic2Glam1 hernic2Glam2 hernic2Glam3
+2024-09-11 22:37:46,176 - __main__ - INFO - endosszxx: คนเราทิ้งกันได้ลง
+2024-09-11 22:37:47,500 - __main__ - INFO - shibi290: คมขนาดนี้ พรีเดแน่
+2024-09-11 22:38:02,577 - __main__ - INFO - i_capitano_i: จริงมั้ย
+2024-09-11 22:38:05,099 - __main__ - INFO - grimtouch_x: hernic2Jjemahasudhro hernic2Jjemahasudhro
+2024-09-11 22:38:06,459 - __main__ - INFO - i_capitano_i: เธอทำได้หรอ
+2024-09-11 22:38:10,901 - __main__ - INFO - i_capitano_i: 10 นาทีอ่านแชททีนึง
+2024-09-11 22:38:17,163 - __main__ - INFO - i_capitano_i: การที่เป็นคนไทยอะนะ
+2024-09-11 22:38:30,513 - __main__ - INFO - shibi290: คิดว่าอยู่ร้านหมูทะ
+2024-09-11 22:38:32,637 - __main__ - INFO - zay2345678: ที่เราแปลงร่างเป็นสัตว์อะหรอ
+2024-09-11 22:38:48,624 - __main__ - INFO - zay2345678: 8ปีผมก็รอมาแล้ว
+2024-09-11 22:38:57,727 - __main__ - INFO - zay2345678: คิดว่าจะออกแต่ยังไปต่อปีที่9
+2024-09-11 22:39:30,897 - __main__ - INFO - i_capitano_i: W solo grinding rank
+2024-09-11 22:39:35,558 - __main__ - INFO - i_capitano_i: W solo player
+2024-09-11 22:40:20,730 - __main__ - INFO - i_capitano_i: W อินสต้าล็อก Sova
+2024-09-11 22:40:37,501 - __main__ - INFO - Bot process interrupted by user.
+2024-09-11 22:40:37,501 - __main__ - INFO - Bot process stopped at 2024-09-11 22:40:37
+2024-09-11 22:40:38,351 - __main__ - INFO - Bot process started at 2024-09-11 22:40:38
+2024-09-11 22:40:38,351 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-11 22:40:40,560 - __main__ - INFO - Logged in as urxi_
+2024-09-11 22:40:40,560 - __main__ - INFO - Connected to kiziakixx
+2024-09-11 22:41:04,800 - __main__ - INFO - urxi_: ehe
+2024-09-11 22:41:12,640 - __main__ - INFO - urxi_: ผม ขอ รอบ ท้าย
+2024-09-11 22:41:16,916 - __main__ - INFO - urxi_: !reset
+2024-09-11 22:41:16,917 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-09-11 22:41:19,203 - __main__ - INFO - zay2345678: my time has come
+2024-09-11 22:41:50,714 - __main__ - INFO - urxi_: สุ่ม
+2024-09-11 22:41:50,955 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-11 22:41:50,955 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-09-11 22:42:47,285 - __main__ - INFO - i_capitano_i: W ninja defusing
+2024-09-11 22:42:47,865 - __main__ - INFO - zay2345678: I'm leaving now Sweet dreams
+2024-09-11 22:42:50,849 - __main__ - INFO - zay2345678: Think of me in your dreams
+2024-09-11 22:43:03,252 - __main__ - INFO - zay2345678: spinzeSmile spinzeSmile spinzeSmile
+2024-09-11 22:44:46,847 - __main__ - INFO - i_capitano_i: kiziakLoading
+2024-09-11 22:44:55,526 - __main__ - INFO - i_capitano_i: เพลงหายไปไหน
+2024-09-11 22:45:04,753 - __main__ - INFO - i_capitano_i: Play some banger
+2024-09-11 22:45:25,786 - __main__ - INFO - succubusinluv: succub72CAT11 succub72CAT22 succub72CAT33
+2024-09-11 22:46:01,726 - __main__ - INFO - i_capitano_i: kiziakHeart kiziakHeart
+2024-09-11 22:46:06,818 - __main__ - INFO - panyapat_t: ยังไงนะ
+2024-09-11 22:46:19,393 - __main__ - INFO - Bot process interrupted by user.
+2024-09-11 22:46:19,393 - __main__ - INFO - Bot process stopped at 2024-09-11 22:46:19
+2024-09-12 00:42:58,119 - __main__ - INFO - Bot process started at 2024-09-12 00:42:58
+2024-09-12 00:42:58,120 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-12 00:43:00,326 - __main__ - INFO - Logged in as urxi_
+2024-09-12 00:43:00,326 - __main__ - INFO - Connected to urxi_
+2024-09-12 00:43:11,013 - __main__ - INFO - urxi_: สุ่ม
+2024-09-12 00:43:11,014 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-09-12 00:47:35,750 - __main__ - INFO - Bot process interrupted by user.
+2024-09-12 00:47:35,750 - __main__ - INFO - Bot process stopped at 2024-09-12 00:47:35
+2024-09-12 00:47:36,567 - __main__ - INFO - Bot process started at 2024-09-12 00:47:36
+2024-09-12 00:47:36,568 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-12 00:47:38,746 - __main__ - INFO - Logged in as urxi_
+2024-09-12 00:47:38,746 - __main__ - INFO - Connected to urxi_
+2024-09-12 00:47:42,173 - __main__ - INFO - urxi_: !check
+2024-09-12 00:47:42,173 - __main__ - INFO - Bot: commands ที่ใช้ได้ : urxi_, urxi_
+2024-09-12 00:50:47,875 - __main__ - INFO - Bot process interrupted by user.
+2024-09-12 00:50:47,875 - __main__ - INFO - Bot process stopped at 2024-09-12 00:50:47
+2024-09-12 00:50:48,770 - __main__ - INFO - Bot process started at 2024-09-12 00:50:48
+2024-09-12 00:50:48,770 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-12 00:50:50,967 - __main__ - INFO - Logged in as urxi_
+2024-09-12 00:50:50,967 - __main__ - INFO - Connected to urxi_
+2024-09-12 00:51:28,975 - __main__ - INFO - Bot process interrupted by user.
+2024-09-12 00:51:28,975 - __main__ - INFO - Bot process stopped at 2024-09-12 00:51:28
+2024-09-12 00:51:29,777 - __main__ - INFO - Bot process started at 2024-09-12 00:51:29
+2024-09-12 00:51:29,778 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-12 00:51:31,978 - __main__ - INFO - Logged in as urxi_
+2024-09-12 00:51:31,978 - __main__ - INFO - Connected to urxi_
+2024-09-12 00:51:35,332 - __main__ - INFO - urxi_: สุ่ม
+2024-09-12 00:51:35,333 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-09-12 00:51:42,429 - __main__ - INFO - urxi_: !check
+2024-09-12 00:51:42,429 - __main__ - INFO - Bot: User in list :urxi_, urxi_, urxi_, urxi_
+2024-09-12 00:56:02,847 - __main__ - INFO - Bot process interrupted by user.
+2024-09-12 00:56:02,847 - __main__ - INFO - Bot process stopped at 2024-09-12 00:56:02
+2024-09-12 00:56:03,375 - __main__ - INFO - Bot process started at 2024-09-12 00:56:03
+2024-09-12 00:56:03,376 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-12 00:56:05,554 - __main__ - INFO - Logged in as urxi_
+2024-09-12 00:56:05,554 - __main__ - INFO - Connected to urxi_
+2024-09-12 00:56:09,525 - __main__ - INFO - urxi_: !reset
+2024-09-12 00:56:09,526 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-09-12 00:56:12,674 - __main__ - INFO - urxi_: !enter
+2024-09-12 00:56:12,904 - __main__ - INFO - User 168536751 is not subscribed.
+2024-09-12 00:56:12,906 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-09-12 00:56:15,371 - __main__ - INFO - urxi_: สุ่ม
+2024-09-12 00:56:15,371 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-09-12 00:56:23,543 - __main__ - INFO - urxi_: !random
+2024-09-12 00:56:23,543 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-12 01:01:45,381 - __main__ - INFO - Bot process interrupted by user.
+2024-09-12 01:01:45,381 - __main__ - INFO - Bot process stopped at 2024-09-12 01:01:45
+2024-09-12 01:01:45,918 - __main__ - INFO - Bot process started at 2024-09-12 01:01:45
+2024-09-12 01:01:45,919 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-12 01:01:48,170 - __main__ - INFO - Logged in as kiziakixx
+2024-09-12 01:01:48,170 - __main__ - INFO - Connected to kiziakixx
+2024-09-12 01:01:56,860 - __main__ - INFO - kiziakixx: ggg
+2024-09-12 01:02:04,593 - __main__ - INFO - kiziakixx: !giveaway
+2024-09-12 01:02:15,632 - __main__ - INFO - urxi_: !enter
+2024-09-12 01:02:15,632 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-09-12 01:02:25,872 - __main__ - INFO - kiziakixx: !enter
+2024-09-12 01:02:26,133 - __main__ - INFO - User 1034744882 is subscribed.
+2024-09-12 01:02:26,134 - __main__ - INFO - Bot: kiziakixx ได้ซัพทำให้ได้โชคคูณสอง.
+2024-09-12 01:03:36,349 - __main__ - INFO - kiziakixx: !watchtime
+2024-09-12 01:03:36,689 - __main__ - INFO - streamelements: kiziakixx has spent 0 secs watching kiziakixx
+2024-09-12 01:34:31,264 - __main__ - INFO - Bot process interrupted by user.
+2024-09-12 01:34:31,264 - __main__ - INFO - Bot process stopped at 2024-09-12 01:34:31
+2024-09-17 18:17:11,025 - __main__ - INFO - Bot process started at 2024-09-17 18:17:11
+2024-09-17 18:17:11,026 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-17 18:17:13,299 - __main__ - INFO - Logged in as kiziakixx
+2024-09-17 18:17:13,299 - __main__ - INFO - Connected to kiziakixx
+2024-09-17 18:19:40,845 - __main__ - INFO - urxi_: !enter
+2024-09-17 18:19:40,845 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-09-17 18:20:41,458 - __main__ - INFO - urxi_: !check
+2024-09-17 18:20:41,458 - __main__ - INFO - Bot: User in list : urxi_, kiziakixx, kiziakixx
+2024-09-17 18:27:34,382 - __main__ - INFO - urxi_: สุ่ม
+2024-09-17 18:27:34,383 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-09-17 18:27:42,580 - __main__ - INFO - urxi_: เครื่องหมายสี่เหลี่ยมเครื่องเหลี่ยมสี่หลาย
+2024-09-17 19:48:11,195 - __main__ - INFO - Bot process started at 2024-09-17 19:48:11
+2024-09-17 19:48:11,196 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-17 19:48:13,432 - __main__ - INFO - Logged in as kiziakixx
+2024-09-17 19:48:13,432 - __main__ - INFO - Connected to kiziakixx
+2024-09-17 19:48:22,639 - __main__ - INFO - urxi_: !random
+2024-09-17 19:48:22,659 - __main__ - INFO - Bot: ยินดีด้วยกับ kiziakixx! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-17 19:48:50,970 - __main__ - INFO - urxi_: !random
+2024-09-17 19:48:50,973 - __main__ - INFO - Bot: ยินดีด้วยกับ kiziakixx! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-17 19:49:06,494 - __main__ - INFO - urxi_: !random
+2024-09-17 19:49:06,497 - __main__ - INFO - Bot: ยินดีด้วยกับ kiziakixx! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-17 19:49:29,573 - __main__ - INFO - Bot process started at 2024-09-17 19:49:29
+2024-09-17 19:49:29,574 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-17 19:49:31,760 - __main__ - INFO - Logged in as kiziakixx
+2024-09-17 19:49:31,760 - __main__ - INFO - Connected to kiziakixx
+2024-09-17 19:52:16,269 - __main__ - INFO - urxi_: !random
+2024-09-17 19:52:16,294 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-17 19:56:34,527 - __main__ - INFO - Bot process started at 2024-09-17 19:56:34
+2024-09-17 19:56:34,528 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-17 19:56:36,842 - __main__ - INFO - Logged in as kiziakixx
+2024-09-17 19:56:36,842 - __main__ - INFO - Connected to kiziakixx
+2024-09-17 19:56:55,183 - __main__ - INFO - urxi_: !random
+2024-09-17 19:56:55,186 - __main__ - INFO - Bot: ยินดีด้วยกับ kiziakixx! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-17 19:56:55,188 - __main__ - INFO - urxi_: !random
+2024-09-17 19:56:55,212 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-17 19:56:55,480 - __main__ - INFO - kiziakixx: ยินดีด้วยกับ kiziakixx! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-17 19:56:55,518 - __main__ - INFO - kiziakixx: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-17 19:57:17,576 - __main__ - INFO - Bot process interrupted by user.
+2024-09-17 19:57:17,576 - __main__ - INFO - Bot process stopped at 2024-09-17 19:57:17
+2024-09-18 00:44:36,003 - __main__ - INFO - Bot process started at 2024-09-18 00:44:36
+2024-09-18 00:44:36,004 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 00:44:38,255 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 00:44:38,256 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 00:51:46,243 - __main__ - INFO - urxi_: !reset
+2024-09-18 00:51:46,244 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-09-18 00:51:49,449 - __main__ - INFO - urxi_: !enter
+2024-09-18 00:51:49,689 - __main__ - INFO - User 168536751 is not subscribed.
+2024-09-18 00:51:49,689 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-09-18 10:59:56,093 - __main__ - INFO - Bot process started at 2024-09-18 10:59:56
+2024-09-18 10:59:56,095 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 11:00:00,356 - __main__ - INFO - Done...
+2024-09-18 11:00:00,358 - __main__ - INFO - Bot process stopped at 2024-09-18 11:00:00
+2024-09-18 11:00:55,367 - __main__ - INFO - Bot process started at 2024-09-18 11:00:55
+2024-09-18 11:00:55,368 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 11:00:57,899 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 11:00:57,899 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 11:01:41,471 - __main__ - INFO - urxi_: !random
+2024-09-18 11:01:51,500 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:02:48,774 - __main__ - INFO - Done...
+2024-09-18 11:02:48,777 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 11:02:48,777 - __main__ - INFO - Bot process stopped at 2024-09-18 11:02:48
+2024-09-18 11:02:49,301 - __main__ - INFO - Bot process started at 2024-09-18 11:02:49
+2024-09-18 11:02:49,302 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 11:02:51,613 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 11:02:51,613 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 11:03:08,785 - __main__ - INFO - urxi_: !random
+2024-09-18 11:03:28,794 - __main__ - INFO - Bot: ยินดีด้วยกับ awkjdahkdjancksbvsvbs! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:03:51,164 - __main__ - INFO - urxi_: !random
+2024-09-18 11:04:11,166 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:04:19,132 - __main__ - INFO - urxi_: !random
+2024-09-18 11:04:39,142 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:05:07,565 - __main__ - INFO - urxi_: !reset
+2024-09-18 11:05:07,567 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-09-18 11:05:12,481 - __main__ - INFO - urxi_: !enter
+2024-09-18 11:05:12,894 - __main__ - INFO - User 168536751 is not subscribed.
+2024-09-18 11:05:12,895 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-09-18 11:05:17,569 - __main__ - INFO - urxi_: !random
+2024-09-18 11:05:37,591 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:16:02,482 - __main__ - INFO - i_capitano_i: kiziakLurk
+2024-09-18 11:28:24,140 - __main__ - INFO - Done...
+2024-09-18 11:28:24,141 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 11:28:24,141 - __main__ - INFO - Bot process stopped at 2024-09-18 11:28:24
+2024-09-18 11:28:24,981 - __main__ - INFO - Bot process started at 2024-09-18 11:28:24
+2024-09-18 11:28:24,982 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 11:28:27,426 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 11:28:27,426 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 11:28:43,801 - __main__ - INFO - urxi_: !random
+2024-09-18 11:29:03,818 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:30:11,206 - __main__ - INFO - Done...
+2024-09-18 11:30:11,207 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 11:30:11,207 - __main__ - INFO - Bot process stopped at 2024-09-18 11:30:11
+2024-09-18 11:30:21,521 - __main__ - INFO - Bot process started at 2024-09-18 11:30:21
+2024-09-18 11:30:21,522 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 11:30:23,777 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 11:30:23,777 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 11:30:31,098 - __main__ - INFO - urxi_: !enter
+2024-09-18 11:30:31,505 - __main__ - INFO - User 168536751 is not subscribed.
+2024-09-18 11:30:31,506 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-09-18 11:30:41,487 - __main__ - INFO - urxi_: !random
+2024-09-18 11:31:01,509 - __main__ - INFO - Bot: ยินดีด้วยกับ Ivy! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:31:24,837 - __main__ - INFO - Done...
+2024-09-18 11:31:24,838 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 11:31:24,838 - __main__ - INFO - Bot process stopped at 2024-09-18 11:31:24
+2024-09-18 11:31:25,427 - __main__ - INFO - Bot process started at 2024-09-18 11:31:25
+2024-09-18 11:31:25,428 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 11:31:27,708 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 11:31:27,709 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 11:31:36,748 - __main__ - INFO - urxi_: !check
+2024-09-18 11:31:36,749 - __main__ - INFO - Bot: User in list : Alice, Bob, Charlie, David, Eve, Frank, Grace, Hannah, Ivy, Jack, urxi_
+2024-09-18 11:31:54,417 - __main__ - INFO - urxi_: !random
+2024-09-18 11:32:14,422 - __main__ - INFO - Bot: ยินดีด้วยกับ David! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:34:32,930 - __main__ - INFO - urxi_: !random
+2024-09-18 11:34:52,937 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:35:54,509 - __main__ - INFO - urxi_: !random
+2024-09-18 11:36:14,836 - __main__ - INFO - Bot: ยินดีด้วยกับ Grace! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 11:56:00,198 - __main__ - INFO - Done...
+2024-09-18 11:56:00,199 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 11:56:00,199 - __main__ - INFO - Bot process stopped at 2024-09-18 11:56:00
+2024-09-18 11:56:17,392 - __main__ - INFO - Bot process started at 2024-09-18 11:56:17
+2024-09-18 11:56:17,393 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 11:56:19,606 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 11:56:19,606 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 12:00:10,869 - __main__ - INFO - urxi_: !enter
+2024-09-18 12:00:10,870 - __main__ - INFO - Bot: urxi_, มีรายชื่อแล้ว.
+2024-09-18 12:00:27,083 - __main__ - INFO - urxi_: !random
+2024-09-18 12:00:44,969 - __main__ - INFO - nightbot: ฝากกดติดตามเซียทางทวิตเตอร์ด้วยนะคะ <3 https://twitter.com/kiziakixx
+2024-09-18 12:00:47,099 - __main__ - INFO - Bot: ยินดีด้วยกับ Bob! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 12:04:27,559 - __main__ - INFO - Done...
+2024-09-18 12:04:27,560 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 12:04:27,561 - __main__ - INFO - Bot process stopped at 2024-09-18 12:04:27
+2024-09-18 12:04:31,757 - __main__ - INFO - Bot process started at 2024-09-18 12:04:31
+2024-09-18 12:04:31,758 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 12:04:33,916 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 12:04:33,916 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 12:04:42,653 - __main__ - INFO - urxi_: !random
+2024-09-18 12:07:03,246 - __main__ - INFO - Done...
+2024-09-18 12:07:03,247 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 12:07:03,247 - __main__ - INFO - Bot process stopped at 2024-09-18 12:07:03
+2024-09-18 12:07:07,443 - __main__ - INFO - Bot process started at 2024-09-18 12:07:07
+2024-09-18 12:07:07,444 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 12:07:09,680 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 12:07:09,680 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 12:07:17,155 - __main__ - INFO - urxi_: !random
+2024-09-18 12:07:37,173 - __main__ - INFO - Bot: ยินดีด้วยกับ Eve! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 13:10:21,286 - __main__ - INFO - Done...
+2024-09-18 13:10:21,293 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 13:10:21,293 - __main__ - INFO - Bot process stopped at 2024-09-18 13:10:21
+2024-09-18 14:17:36,302 - __main__ - INFO - Bot process started at 2024-09-18 14:17:36
+2024-09-18 14:17:36,309 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 14:17:38,958 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 14:17:38,958 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 14:36:29,185 - __main__ - INFO - Done...
+2024-09-18 14:36:29,186 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 14:36:29,187 - __main__ - INFO - Bot process stopped at 2024-09-18 14:36:29
+2024-09-18 15:35:53,985 - __main__ - INFO - Bot process started at 2024-09-18 15:35:53
+2024-09-18 15:35:53,986 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 15:36:06,347 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 15:36:06,347 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 15:36:09,944 - __main__ - INFO - panyapat_t: เดี๋ยวแอบฟัง
+2024-09-18 15:36:12,336 - __main__ - INFO - zay2345678: กลับมาล้า
+2024-09-18 15:36:17,998 - __main__ - INFO - Done...
+2024-09-18 15:36:17,999 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 15:36:17,999 - __main__ - INFO - Bot process stopped at 2024-09-18 15:36:17
+2024-09-18 15:38:35,630 - __main__ - INFO - Bot process started at 2024-09-18 15:38:35
+2024-09-18 15:38:35,631 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-18 15:38:39,696 - __main__ - INFO - Done...
+2024-09-18 15:38:39,697 - __main__ - INFO - Bot process stopped at 2024-09-18 15:38:39
+2024-09-18 15:40:02,354 - __main__ - INFO - Bot process started at 2024-09-18 15:40:02
+2024-09-18 15:40:02,354 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-18 15:40:06,429 - __main__ - ERROR - Failed to connect to OBS WebSocket. OBS might not be open.
+2024-09-18 15:40:08,578 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 15:40:08,578 - __main__ - INFO - Connected to urxi_
+2024-09-18 15:40:18,250 - __main__ - INFO - urxi_: a
+2024-09-18 15:40:22,604 - __main__ - INFO - urxi_: !random
+2024-09-18 15:40:22,604 - __main__ - INFO - Bot: No entries in the giveaway yet.
+2024-09-18 15:41:11,338 - __main__ - INFO - urxi_: !enter
+2024-09-18 15:41:11,561 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-18 15:41:11,562 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-09-18 15:41:56,569 - __main__ - INFO - urxi_: !random
+2024-09-18 15:44:01,742 - __main__ - INFO - Done...
+2024-09-18 15:44:01,743 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 15:44:01,743 - __main__ - INFO - Bot process stopped at 2024-09-18 15:44:01
+2024-09-18 15:44:02,288 - __main__ - INFO - Bot process started at 2024-09-18 15:44:02
+2024-09-18 15:44:02,289 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-18 15:44:06,360 - __main__ - ERROR - Failed to connect and identify with OBS WebSocket: [WinError 1225] The remote computer refused the network connection
+2024-09-18 15:44:08,596 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 15:44:08,596 - __main__ - INFO - Connected to urxi_
+2024-09-18 15:44:09,532 - __main__ - INFO - urxi_: !check
+2024-09-18 15:44:09,533 - __main__ - INFO - Bot: User in list : urxi_
+2024-09-18 15:44:14,610 - __main__ - INFO - urxi_: !random
+2024-09-18 15:44:14,611 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 15:45:22,545 - __main__ - INFO - Done...
+2024-09-18 15:45:22,546 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 15:45:22,546 - __main__ - INFO - Bot process stopped at 2024-09-18 15:45:22
+2024-09-18 15:45:23,072 - __main__ - INFO - Bot process started at 2024-09-18 15:45:23
+2024-09-18 15:45:23,073 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-18 15:45:25,296 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 15:45:25,296 - __main__ - INFO - Connected to urxi_
+2024-09-18 15:45:34,674 - __main__ - INFO - urxi_: !random
+2024-09-18 15:45:54,668 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 15:46:00,593 - __main__ - INFO - urxi_: !random
+2024-09-18 15:46:20,594 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 15:47:31,054 - __main__ - INFO - urxi_: !check
+2024-09-18 15:47:31,054 - __main__ - INFO - Bot: User in list : urxi_
+2024-09-18 15:48:33,703 - __main__ - INFO - Done...
+2024-09-18 15:48:33,704 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 15:48:33,704 - __main__ - INFO - Bot process stopped at 2024-09-18 15:48:33
+2024-09-18 15:48:34,230 - __main__ - INFO - Bot process started at 2024-09-18 15:48:34
+2024-09-18 15:48:34,231 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-18 15:48:36,422 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 15:48:36,422 - __main__ - INFO - Connected to urxi_
+2024-09-18 15:48:41,809 - __main__ - INFO - urxi_: !check
+2024-09-18 15:48:41,809 - __main__ - INFO - Bot: User in list : urxi_, urxi_, kiziakixx, user3, user4, user5, user6, user7, user8, user9, user10, user11, user12
+2024-09-18 15:48:50,521 - __main__ - INFO - urxi_: !random
+2024-09-18 15:49:10,533 - __main__ - INFO - Bot: ยินดีด้วยกับ user4! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 15:52:52,843 - __main__ - INFO - urxi_: !random
+2024-09-18 15:53:12,847 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 15:57:00,340 - __main__ - INFO - urxi_: !reset
+2024-09-18 15:57:00,341 - __main__ - INFO - Bot: The giveaway has been reset.
+2024-09-18 15:57:03,202 - __main__ - INFO - urxi_: !enter
+2024-09-18 15:57:03,437 - __main__ - ERROR - Failed to check subscription status: 401 Unauthorized
+2024-09-18 15:57:03,437 - __main__ - INFO - Bot: urxi_ ได้เข้าร่วม.
+2024-09-18 15:57:13,357 - __main__ - INFO - urxi_: !random
+2024-09-18 15:57:33,367 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 15:58:30,636 - __main__ - INFO - urxi_: !random
+2024-09-18 15:58:30,637 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 16:13:30,089 - __main__ - INFO - Done...
+2024-09-18 16:13:30,090 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 16:13:30,090 - __main__ - INFO - Bot process stopped at 2024-09-18 16:13:30
+2024-09-18 16:53:11,414 - __main__ - INFO - Bot process started at 2024-09-18 16:53:11
+2024-09-18 16:53:11,415 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-18 16:53:15,539 - __main__ - ERROR - Failed to connect and identify with OBS WebSocket: [WinError 1225] The remote computer refused the network connection
+2024-09-18 16:53:17,733 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 16:53:17,733 - __main__ - INFO - Connected to urxi_
+2024-09-18 18:41:04,569 - __main__ - INFO - Bot process started at 2024-09-18 18:41:04
+2024-09-18 18:41:04,569 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-18 18:41:08,803 - __main__ - ERROR - Failed to connect and identify with OBS WebSocket: [WinError 1225] The remote computer refused the network connection
+2024-09-18 18:41:11,061 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 18:41:11,061 - __main__ - INFO - Connected to urxi_
+2024-09-18 18:41:59,137 - __main__ - INFO - Done...
+2024-09-18 18:41:59,138 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 18:41:59,138 - __main__ - INFO - Bot process stopped at 2024-09-18 18:41:59
+2024-09-18 18:41:59,665 - __main__ - INFO - Bot process started at 2024-09-18 18:41:59
+2024-09-18 18:41:59,666 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-18 18:42:01,894 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 18:42:01,894 - __main__ - INFO - Connected to urxi_
+2024-09-18 18:42:59,100 - __main__ - INFO - urxi_: !check
+2024-09-18 18:42:59,100 - __main__ - INFO - Bot: User in list : urxi_
+2024-09-18 18:43:38,014 - __main__ - INFO - urxi_: !random
+2024-09-18 18:43:58,034 - __main__ - INFO - Bot: ยินดีด้วยกับ urxi_! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 18:44:56,179 - __main__ - INFO - Done...
+2024-09-18 18:44:56,180 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 18:44:56,180 - __main__ - INFO - Bot process stopped at 2024-09-18 18:44:56
+2024-09-18 18:44:56,735 - __main__ - INFO - Bot process started at 2024-09-18 18:44:56
+2024-09-18 18:44:56,736 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-18 18:44:58,972 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 18:44:58,972 - __main__ - INFO - Connected to urxi_
+2024-09-18 18:45:03,793 - __main__ - INFO - urxi_: !check
+2024-09-18 18:45:03,793 - __main__ - INFO - Bot: User in list : Alexandra, Benjamin, Catherine, Dominic, Eleanor, Frederick, Gabriella, Harrison, Isabella, Jonathan
+2024-09-18 18:45:12,927 - __main__ - INFO - urxi_: !random
+2024-09-18 18:45:32,942 - __main__ - INFO - Bot: ยินดีด้วยกับ Alexandra! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 18:45:45,673 - __main__ - INFO - urxi_: !random
+2024-09-18 18:46:05,675 - __main__ - INFO - Bot: ยินดีด้วยกับ Jonathan! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 18:50:06,083 - __main__ - INFO - Done...
+2024-09-18 18:50:06,084 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 18:50:06,084 - __main__ - INFO - Bot process stopped at 2024-09-18 18:50:06
+2024-09-18 18:50:06,634 - __main__ - INFO - Bot process started at 2024-09-18 18:50:06
+2024-09-18 18:50:06,635 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-18 18:50:09,021 - __main__ - INFO - Logged in as kiziakixx
+2024-09-18 18:50:09,021 - __main__ - INFO - Connected to kiziakixx
+2024-09-18 18:50:21,473 - __main__ - INFO - urxi_: !check
+2024-09-18 18:50:21,473 - __main__ - INFO - Bot: User in list : Alexandra, Benjamin, Catherine, Dominic, Eleanor, Frederick, Gabriella, Harrison, Isabella, Jonathan
+2024-09-18 18:50:35,569 - __main__ - INFO - urxi_: !enter
+2024-09-18 18:50:35,834 - __main__ - INFO - User 168536751 is subscribed.
+2024-09-18 18:50:35,835 - __main__ - INFO - Bot: urxi_ ได้ซัพทำให้ได้โชคคูณสอง.
+2024-09-18 18:50:48,422 - __main__ - INFO - urxi_: !random
+2024-09-18 18:51:08,419 - __main__ - INFO - Bot: ยินดีด้วยกับ Dominic! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-18 18:55:15,096 - __main__ - INFO - Done...
+2024-09-18 18:55:15,097 - __main__ - INFO - Bot process interrupted by user.
+2024-09-18 18:55:15,097 - __main__ - INFO - Bot process stopped at 2024-09-18 18:55:15
+2024-09-21 03:21:12,824 - __main__ - INFO - Bot process started at 2024-09-21 03:21:12
+2024-09-21 03:21:12,825 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-21 03:21:15,109 - __main__ - INFO - Logged in as kiziakixx
+2024-09-21 03:21:15,109 - __main__ - INFO - Connected to kiziakixx
+2024-09-21 03:23:21,747 - __main__ - INFO - urxi_: !check
+2024-09-21 03:23:21,747 - __main__ - INFO - Bot: User in list : Alexandra, Benjamin, Catherine, Dominic, Eleanor, Frederick, Gabriella, Harrison, Isabella, Jonathan, urxi_, urxi_
+2024-09-21 03:23:32,615 - __main__ - INFO - urxi_: !random
+2024-09-21 03:23:52,629 - __main__ - INFO - Bot: ยินดีด้วยกับ Jonathan! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-21 03:24:05,385 - __main__ - INFO - i_capitano_i: W mod ของจริง
+2024-09-21 03:24:21,059 - __main__ - INFO - urxi_: kiziakGluaaa kiziakGluaaa kiziakGluaaa kiziakGluaaa
+2024-09-21 03:24:35,370 - __main__ - INFO - Done...
+2024-09-21 03:24:35,371 - __main__ - INFO - Bot process interrupted by user.
+2024-09-21 03:24:35,371 - __main__ - INFO - Bot process stopped at 2024-09-21 03:24:35
+2024-09-25 18:07:31,027 - __main__ - INFO - Bot process started at 2024-09-25 18:07:31
+2024-09-25 18:07:31,028 - __main__ - INFO - Starting bot in kiziakixx . . .
+2024-09-25 18:07:33,263 - __main__ - INFO - Logged in as kiziakixx
+2024-09-25 18:07:33,263 - __main__ - INFO - Connected to kiziakixx
+2024-09-25 18:07:33,684 - __main__ - INFO - Done...
+2024-09-25 18:07:33,684 - __main__ - INFO - Bot process interrupted by user.
+2024-09-25 18:07:33,685 - __main__ - INFO - Bot process stopped at 2024-09-25 18:07:33
+2024-09-25 18:07:50,700 - __main__ - INFO - Bot process started at 2024-09-25 18:07:50
+2024-09-25 18:07:50,701 - __main__ - INFO - Starting bot in urxi_ . . .
+2024-09-25 18:07:53,034 - __main__ - INFO - Logged in as kiziakixx
+2024-09-25 18:07:53,034 - __main__ - INFO - Connected to urxi_
+2024-09-25 18:08:01,497 - __main__ - INFO - urxi_: !random
+2024-09-25 18:08:21,513 - __main__ - INFO - Bot: ยินดีด้วยกับ Frederick! คุณคือผู้ถูกเลือก ?!?!!!
+2024-09-25 18:08:59,802 - __main__ - INFO - Done...
+2024-09-25 18:08:59,802 - __main__ - INFO - Bot process interrupted by user.
+2024-09-25 18:08:59,802 - __main__ - INFO - Bot process stopped at 2024-09-25 18:08:59
