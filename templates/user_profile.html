@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile - {{ user['username'] }}</title>
+    <style>
+        .profile {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+        .profile h2 {
+            margin-top: 0;
+        }
+        .profile p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <h2>{{ user['username'] }}</h2>
+        <p><strong>Points:</strong> {{ user['points'] }}</p>
+        <p><strong>Last Active:</strong> {{ user['last_active'] }}</p>
+        <a href="{{ url_for('index') }}">Back to Dashboard</a>
+    </div>
+</body>
+</html>

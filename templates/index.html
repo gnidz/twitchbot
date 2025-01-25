@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitch Bot Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script>
+        // JavaScript to handle modal visibility
+        function openModal(modalId) {
+            document.getElementById(modalId).classList.remove('hidden');
+        }
+
+        function closeModal(modalId) {
+            document.getElementById(modalId).classList.add('hidden');
+        }
+    </script>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto p-4">
+        <h1 class="text-3xl font-bold text-center mb-8">Twitch Bot Dashboard</h1>
+
+        <!-- Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="mb-4 p-4 rounded-lg {% if category == 'success' %}bg-green-100 text-green-700{% else %}bg-red-100 text-red-700{% endif %}">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <!-- Users Table -->
+        <h2 class="text-2xl font-semibold mb-4">Users</h2>
+        <div class="bg-white shadow-md rounded-lg overflow-hidden">
+            <table class="min-w-full">
+                <thead class="bg-gray-200">
+                    <tr>
+                        <th class="px-6 py-3 text-left text-sm font-medium text-gray-700">Username</th>
+                        <th class="px-6 py-3 text-left text-sm font-medium text-gray-700">Points</th>
+                        <th class="px-6 py-3 text-left text-sm font-medium text-gray-700">Action</th>
+                    </tr>
+                </thead>
+                <tbody class="divide-y divide-gray-200">
+                    {% for user in users %}
+                    <tr class="hover:bg-gray-50">
+                        <td class="px-6 py-4 text-sm text-gray-700">{{ user['username'] }}</td>
+                        <td class="px-6 py-4 text-sm text-gray-700">{{ user['points'] }}</td>
+                        <td class="px-6 py-4 text-sm">
+                            <button onclick="openModal('editUserModal{{ user['username'] }}')" class="text-blue-500 hover:text-blue-700">Edit</button>
+                        </td>
+                    </tr>
+
+                    <!-- Edit User Modal -->
+                    <div id="editUserModal{{ user['username'] }}" class="hidden fixed inset-0 bg-gray-600 bg-opacity-50 flex items-center justify-center">
+                        <div class="bg-white p-6 rounded-lg shadow-md w-96">
+                            <h2 class="text-xl font-bold mb-4">Edit User - {{ user['username'] }}</h2>
+                            <form method="POST" action="{{ url_for('edit_user', username=user['username']) }}">
+                                <div class="mb-4">
+                                    <label for="points" class="block text-sm font-medium text-gray-700">Points:</label>
+                                    <input type="number" id="points" name="points" value="{{ user['points'] }}" required
+                                           class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500">
+                                </div>
+                                <div class="flex justify-end space-x-2">
+                                    <button type="button" onclick="closeModal('editUserModal{{ user['username'] }}')" class="bg-gray-500 text-white px-4 py-2 rounded-lg hover:bg-gray-600">Cancel</button>
+                                    <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600">Save</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Commands Table -->
+        <h2 class="text-2xl font-semibold mt-8 mb-4">Commands</h2>
+        <div class="bg-white shadow-md rounded-lg overflow-hidden">
+            <table class="min-w-full">
+                <thead class="bg-gray-200">
+                    <tr>
+                        <th class="px-6 py-3 text-left text-sm font-medium text-gray-700">Command</th>
+                        <th class="px-6 py-3 text-left text-sm font-medium text-gray-700">Response</th>
+                        <th class="px-6 py-3 text-left text-sm font-medium text-gray-700">Action</th>
+                    </tr>
+                </thead>
+                <tbody class="divide-y divide-gray-200">
+                    {% for command in commands %}
+                    <tr class="hover:bg-gray-50">
+                        <td class="px-6 py-4 text-sm text-gray-700">{{ command['command'] }}</td>
+                        <td class="px-6 py-4 text-sm text-gray-700">{{ command['response'] }}</td>
+                        <td class="px-6 py-4 text-sm">
+                            <button onclick="openModal('editCommandModal{{ command['command'] }}')" class="text-blue-500 hover:text-blue-700">Edit</button>
+                        </td>
+                    </tr>
+
+                    <!-- Edit Command Modal -->
+                    <div id="editCommandModal{{ command['command'] }}" class="hidden fixed inset-0 bg-gray-600 bg-opacity-50 flex items-center justify-center">
+                        <div class="bg-white p-6 rounded-lg shadow-md w-96">
+                            <h2 class="text-xl font-bold mb-4">Edit Command - {{ command['command'] }}</h2>
+                            <form method="POST" action="{{ url_for('edit_command', command=command['command']) }}">
+                                <div class="mb-4">
+                                    <label for="response" class="block text-sm font-medium text-gray-700">Response:</label>
+                                    <textarea id="response" name="response" rows="4" required
+                                              class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500">{{ command['response'] }}</textarea>
+                                </div>
+                                <div class="flex justify-end space-x-2">
+                                    <button type="button" onclick="closeModal('editCommandModal{{ command['command'] }}')" class="bg-gray-500 text-white px-4 py-2 rounded-lg hover:bg-gray-600">Cancel</button>
+                                    <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600">Save</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Add Command Button -->
+        <div class="mt-8">
+            <button onclick="openModal('addCommandModal')" class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600">Add New Command</button>
+        </div>
+
+        <!-- Add Command Modal -->
+        <div id="addCommandModal" class="hidden fixed inset-0 bg-gray-600 bg-opacity-50 flex items-center justify-center">
+            <div class="bg-white p-6 rounded-lg shadow-md w-96">
+                <h2 class="text-xl font-bold mb-4">Add New Command</h2>
+                <form method="POST" action="{{ url_for('add_command') }}">
+                    <div class="mb-4">
+                        <label for="command" class="block text-sm font-medium text-gray-700">Command:</label>
+                        <input type="text" id="command" name="command" placeholder="e.g., !hello" required
+                               class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500">
+                    </div>
+                    <div class="mb-4">
+                        <label for="response" class="block text-sm font-medium text-gray-700">Response:</label>
+                        <textarea id="response" name="response" rows="4" placeholder="e.g., Hello, {user}!" required
+                                  class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"></textarea>
+                    </div>
+                    <div class="flex justify-end space-x-2">
+                        <button type="button" onclick="closeModal('addCommandModal')" class="bg-gray-500 text-white px-4 py-2 rounded-lg hover:bg-gray-600">Cancel</button>
+                        <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600">Add Command</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

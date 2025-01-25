@@ -37,5 +37,5 @@ async def get_user_id(username):
 
 # Add this part to run the asynchronous function
 if __name__ == "__main__":
-    username = 'kiziakixx'
+    username = 'yureionz'
     asyncio.run(get_user_id(username))
